@@ -27,4 +27,4 @@ Here is a video walkthrough: https://drive.google.com/file/d/1jVPOK_CQJh9ehZ_pGJ
 
 ## Credits
 
-The starter code for this application was provided by the Ohio State University coding bootcamp. I the rest of this code myself using NodeJS, MySQL, Seqlelize, and dotenv.
+The starter code for this application was provided by the Ohio State University coding bootcamp. I wrote the rest of this code myself using NodeJS, MySQL, Seqlelize, and dotenv.
